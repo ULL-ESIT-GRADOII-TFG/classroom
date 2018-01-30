@@ -42,3 +42,7 @@ spec/examples.txt
 
 # yarn
 /node_modules
+
+#elasticsarch & ngrok
+ngrok
+elasticsearch-1.7.6/
